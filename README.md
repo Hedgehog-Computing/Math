@@ -1,4 +1,9 @@
-# math 
+# This repo is archived
+### Please contribute this repo at [https://github.com/Hedgehog-Computing/hedgehog-lab/tree/dev/hedgehog-libs/math](https://github.com/Hedgehog-Computing/hedgehog-lab/tree/dev/hedgehog-libs/math)
+
+-------
+
+## math 
 
 The official Math library for [**Hedgehog Lab**](https://github.com/Hedgehog-Computing/hedgehog-lab), maintained by [**Hedgehog Computing**](https://github.com/Hedgehog-Computing).
 
